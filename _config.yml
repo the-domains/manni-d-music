@@ -1,0 +1,28 @@
+name: Manni D Music
+favicon: null
+layout_spectrum: 0.8393507490400225
+typography_spectrum: 0.13072671159170568
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.22093431116081774
+  lightness: 0.6390831093303859
+  saturation: 0.05311129498295486
+  rhythmicContrast: 0.7184337566141039
+purpose: []
