@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Manni D Music]]></title>
+        <description><![CDATA[Manni D Music]]></description>
+        <link>https://thegrid.ai/manni-d-music/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 Nov 2015 15:04:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/manni-d-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I Wanna Be Rich]]></title>
+            <description><![CDATA[<h1>I Wanna Be Rich</h1>]]></description>
+            <link>https://thegrid.ai/manni-d-music/i-wanna-be-rich/index.html</link>
+            <guid isPermaLink="false">db23b202-af00-4937-86be-c7b8b8d3b155</guid>
+            <pubDate>Sat, 21 Nov 2015 15:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/manni-d-music/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">9f992e59-c01e-4330-a723-6516fd72f811</guid>
+            <pubDate>Sat, 21 Nov 2015 15:03:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
